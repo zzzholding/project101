@@ -1,2 +1,2 @@
-#Git Practice
+#Main Branch Change
 # Added about section
